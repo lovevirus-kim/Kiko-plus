@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "Lovevirus Blog"
+  id:               "kiko-plus"
 
 # URL
 url:                "https://lovevirus-kim.github.io/" # the base hostname & protocol for your site
