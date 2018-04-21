@@ -61,8 +61,8 @@ nav:
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+  #- name:           "Github"
+  #  url:            "https://github.com/AWEEKJ/Kiko-plus"
 
 # Sass
 sass:
