@@ -6,7 +6,7 @@
 name:               "Lovevirus Blog"
 
 author:
-  facebook:         lovevirus1049
+  facebook:         lovevirus1049 {: target="_blank" }
   #youtubeUser:      your-id
   #youtubeChannel:   your-id
   #twitter:          your-id
@@ -16,7 +16,7 @@ author:
   #linkedin:         your-id
   #pinterest:        your-id
   #googlePlus:       your-id
-  instagram:        lovevirus_k
+  instagram:        lovevirus_k {: target="_blank" }
   #reddit:           your-id
   #medium:           your-id
   #tumblr:           your-id
