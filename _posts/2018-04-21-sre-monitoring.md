@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-![사이트신뢰성엔지니어링](/images/2018-04-21-sre-monitoring/sre.png)
+![사이트신뢰성엔지니어링](/images/2018-04-21-sre-monitoring/sre.png){: .center-image}
 
 [사이트신뢰성엔지니어링](http://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791188621088&orderClick=LA6)은 구글의 SRE팀이 무엇인지 그리고 어떤 일들을 하는지에 대해서 설명하는 책입니다.
 
