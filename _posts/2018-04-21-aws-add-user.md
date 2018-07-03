@@ -23,7 +23,7 @@ share: true
 
 .aws/config와 .aws/credentials은 환경에 맞춰서 알아서..
 
-### MFA 인증하는 스크립트
+# MFA 인증하는 스크립트
 
 ```sh
 #!/bin/bash
@@ -54,7 +54,7 @@ aws sts get-caller-identity
 exec $SHELL -l
 ```
 
-### 계정 생성하는 스크립트
+# 계정 생성하는 스크립트
 
 ```sh
 #!/bin/bash
