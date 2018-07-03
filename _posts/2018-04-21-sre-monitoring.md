@@ -3,7 +3,7 @@ layout: post
 title: "구글 SRE팀의 모니터링"
 description: "구글 SRE팀의 모니터링 원리."
 date: 2018-04-22
-tags: [Goolge, SRE, Monitoring, 모니터링]
+tags: [Google, SRE, Monitoring, 모니터링]
 comments: true
 share: true
 ---
