@@ -55,14 +55,14 @@ share: true
 # dstat
 
 * dstat를 이용하면 간단하게 실시간으로 모니터링이 가능하다. (끝판왕정도..)
-  1. CPU : *dstat -c*
-  2. Network : dstat -n
-  3. Memory : dstat -m
-  4. Disk : dstat -d
-  5. Load Avrage : dstat -l
-  6. 페이지 입출력 : dstat -g
+  1. CPU : **dstat -c**
+  2. Network : **dstat -n**
+  3. Memory : **dstat -m**
+  4. Disk : **dstat -d**
+  5. Load Avrage : **dstat -l**
+  6. 페이지 입출력 : **dstat -g**
 * 그리고 모니터링하고 싶은 항목들을 아래와 같이 조합하면 한 화면에서 확인이 가능하다.
-  1. dstat -cnmdlg
+  1. **dstat -cnmdlg**
 * 파일에도 기록하고 싶으면 아래 옵션을 사용하면 된다. csv 형태로 기록된다.
-  1. dstat -cnmdlg --output test.log
+  1. **dstat -cnmdlg --output test.log**
 * dstat 관련하여 자세한 정보는 [링크](http://dag.wiee.rs/home-made/dstat/)에서 확인이 가능하다.
